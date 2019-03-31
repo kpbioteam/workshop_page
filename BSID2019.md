@@ -135,7 +135,7 @@ In order the next we will need additional file that annotate illumina450K with g
 >
 >     You will be taken to the **UCSC table browser**, which looks something like this:
 >
->     ![UCSC table browser interface](UCSC_genome_browser.png)
+>     ![UCSC table browser interface](browser1.png)
 >
 > 3. Set the following options:
 >     - *"clade"*: `Mammal`
@@ -152,7 +152,7 @@ In order the next we will need additional file that annotate illumina450K with g
 >
 >    You will see the next screen:
 >
->    ![Output settings](OutputHAIB450K_to_Galaxy.png)
+>    ![Output settings](browser2.png)
 >
 > 5. Click on the **Send Query to Galaxy** button
 > 6. Wait for the upload to finish
