@@ -174,7 +174,7 @@ In order the next we will need additional file that annotate illumina450K with g
 >    -  *"Input set"*:`GenomicRatioSet`
 >    -  *"Phenotype Table"*:`phenotypeTable.txt`
 >    - *"Phenotype Type"*:`categorical`
->    - *"qCutoff Size"*:`0.5`
+>    - *"qCutoff Size"*:`1`
 >
 >        DMPs with an FDR q-value greater than this will not be returned
 >
