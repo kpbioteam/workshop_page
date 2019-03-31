@@ -185,9 +185,7 @@ In order the next we will need additional file that annotate illumina450K with g
 >
 > 3. Run **minfi dmr**  on the output of minfi_dmp adjusting the following parameters
 >    -  *"Input set"*:`GenomicRatioSet`
->    -  *"Phenotype Table"*:`phenotypeTable.txt`
->    - *"factor1"*: `sensitive`
->    - *"factor2"*: `resistant`
+>    -  *"Phenotype Table"*:`phenotypeTable.txt``
 >    - *"maxGap Size"*:`250`
 >    - *"coef Size"*:`2`
 >    - *"Cutoff Size"*:`0.1`
